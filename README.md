@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Aufall</h1>
+<h1 align="center">Hi 👋, I'm aufal</h1>
 <!-- <h3 align="center">"Junior BackEnd Developer"</h3>
 
 <p align="center">"Junior Backend Developer skilled in Golang, specializing in building efficient and scalable server applications. Experienced in designing RESTful APIs, managing databases, and collaborating cross-functionally. Enthusiastic about contributing to innovative projects and committed to continuous learning in the backend development landscape."</p>
